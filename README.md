@@ -1,3 +1,6 @@
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/8742eb77-9a66-4645-8050-de0c0a8f0e82" />
+
+
 # Psyop Strategy
 
 Psyop Strategy is an automated dip-response policy engine designed to monitor token market conditions and coordinate full treasury reinjection strategies during predefined drawdown events.
